@@ -1,2 +1,5 @@
 *.tmp
 secrets.txt
+*.back
+.env
+
