@@ -1,0 +1,18 @@
+RELATÓRIO DE VENDAS
+--------------------
+
+Data de execução: Wed Jul 29 15:10:04 HVGMT 2026
+Runner: LAPTOP-72V25RSP
+Utilizador: Ramalho
+Ficheiro de dados: dados/vendas_servidor.csv
+Total de registos: 90
+Total de linhas: 91
+
+Primeiros 5 registos:
+---------------------
+ID;Data;Cliente;Regiao;Produto;Quantidade;Valor
+1;2026-06-13;AlphaDados;Norte;Base de Dados;5;251.52
+2;2026-02-05;TechPorto;Norte;Base de Dados;2;571.21
+3;2026-01-09;AlphaDados;Norte;Backup Seguro;4;492.45
+4;2026-01-07;NorteLog;Centro;Base de Dados;7;228.91
+5;2026-05-31;Clínica Luz;Norte;API Dados;3;670.78
