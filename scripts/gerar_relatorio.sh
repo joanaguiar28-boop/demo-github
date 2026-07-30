@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ficheiro_dados="dados/vendas_servidor.csv"
+ficheiro_dados="Dados/vendas_servidor.csv"
 pasta_resultados="resultados"
 pasta_logs="logs"
 
